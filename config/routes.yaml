@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\JobController::index
+
+job:
+    path: /job/
+    controller: App\Controller\FormYouController::addAction
